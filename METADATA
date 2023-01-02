@@ -1,18 +1,3 @@
-name: "geojson-jackson"
-description:
-    "A small package of all GeoJson POJOs (Plain Old Java Objects) for "
-    "serializing and deserializing of objects via JSON Jackson Parser."
-
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://github.com/opendatalab-de/geojson-jackson"
-  }
-  url {
-    type: GIT
-    value: "https://github.com/opendatalab-de/geojson-jackson.git"
-  }
-  version: "1.14"
-  last_upgrade_date { year: 2020 month: 8 day: 5 }
-  license_type: NOTICE
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:67d5f390f02094f4a6491fea32d31510047381ffa86016d4e978ac03de5e0dec
+size 478
